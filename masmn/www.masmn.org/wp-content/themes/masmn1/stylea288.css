@@ -1,0 +1,25 @@
+/*
+Theme Name: MAS MN
+*/
+
+.navbar-brand {
+    height: 100px;
+    margin-top: -40px;
+}
+
+@media (max-width: 990px) {
+    .navbar-brand {
+        margin-top: 0px;
+    }
+}
+
+.header-search button {
+    background-color: #f1f1f1;
+}
+
+img.alignright { float: right; margin: 0 0 1em 1em; }
+img.alignleft { float: left; margin: 0 1em 1em 0; }
+img.aligncenter { display: block; margin-left: auto; margin-right: auto; }
+.alignright { float: right; }
+.alignleft { float: left; }
+.aligncenter { display: block; margin-left: auto; margin-right: auto; }
