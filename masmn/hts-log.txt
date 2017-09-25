@@ -1,0 +1,75 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 08 Sep 2017 22:36:39 at https://www.masmn.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.masmn.org/ -O1 "C:\My Web Sites\masmn" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:37:39	Warning: 	Moved Permanently for https://www.masmn.org/?p=290
+22:37:39	Warning: 	File has moved from https://www.masmn.org/?p=290 to https://www.masmn.org/about/
+22:37:39	Warning: 	Moved Permanently for https://www.masmn.org/?p=313
+22:37:39	Warning: 	File has moved from https://www.masmn.org/?p=313 to https://www.masmn.org/khateeb-bureau/
+22:37:39	Warning: 	Moved Permanently for https://www.masmn.org/?p=311
+22:37:39	Warning: 	File has moved from https://www.masmn.org/?p=311 to https://www.masmn.org/speaker-bureau/
+22:37:39	Warning: 	Moved Permanently for https://www.masmn.org/?p=309
+22:37:39	Warning: 	File has moved from https://www.masmn.org/?p=309 to https://www.masmn.org/mas-give/
+22:37:39	Warning: 	Moved Permanently for https://www.masmn.org/?p=307
+22:37:39	Warning: 	File has moved from https://www.masmn.org/?p=307 to https://www.masmn.org/mas-youth/
+22:37:39	Warning: 	Moved Permanently for https://www.masmn.org/?p=305
+22:37:39	Warning: 	File has moved from https://www.masmn.org/?p=305 to https://www.masmn.org/tarbiya/
+22:37:39	Warning: 	Moved Permanently for https://www.masmn.org/?p=364
+22:37:39	Warning: 	File has moved from https://www.masmn.org/?p=364 to https://www.masmn.org/pace/
+22:37:39	Warning: 	Moved Permanently for https://www.masmn.org/?p=373
+22:37:39	Warning: 	File has moved from https://www.masmn.org/?p=373 to https://www.masmn.org/sunday-school/
+22:37:40	Warning: 	Moved Permanently for https://www.masmn.org/?p=371
+22:37:40	Warning: 	File has moved from https://www.masmn.org/?p=371 to https://www.masmn.org/lectures-public-events/
+22:37:40	Warning: 	Moved Permanently for https://www.masmn.org/?p=328
+22:37:40	Warning: 	File has moved from https://www.masmn.org/?p=328 to https://www.masmn.org/masjid-taqwa/
+22:37:41	Warning: 	Moved Permanently for https://www.masmn.org/?p=330
+22:37:41	Warning: 	File has moved from https://www.masmn.org/?p=330 to https://www.masmn.org/bcc/
+22:37:41	Warning: 	Moved Permanently for https://www.masmn.org/?p=332
+22:37:41	Warning: 	File has moved from https://www.masmn.org/?p=332 to https://www.masmn.org/smic/
+22:37:41	Warning: 	Moved Permanently for https://www.masmn.org/?p=560
+22:37:41	Warning: 	File has moved from https://www.masmn.org/?p=560 to https://www.masmn.org/muslim-registry/
+22:37:42	Warning: 	Moved Permanently for https://www.masmn.org/?p=337
+22:37:42	Warning: 	File has moved from https://www.masmn.org/?p=337 to https://www.masmn.org/events/
+22:37:49	Warning: 	Moved Permanently for https://www.masmn.org/?p=345
+22:37:49	Warning: 	File has moved from https://www.masmn.org/?p=345 to https://www.masmn.org/contact-us/
+22:37:49	Warning: 	Moved Permanently for https://www.masmn.org/?p=637
+22:37:49	Warning: 	File has moved from https://www.masmn.org/?p=637 to https://www.masmn.org/fundraiser-request/
+22:37:49	Warning: 	Moved Permanently for https://www.masmn.org/?p=354
+22:37:49	Warning: 	File has moved from https://www.masmn.org/?p=354 to https://www.masmn.org/membership-form/
+22:37:49	Warning: 	Moved Permanently for https://www.masmn.org/?p=351
+22:37:49	Warning: 	File has moved from https://www.masmn.org/?p=351 to https://www.masmn.org/volunteer/
+22:37:49	Warning: 	Moved Permanently for https://www.masmn.org/?p=745
+22:37:49	Warning: 	File has moved from https://www.masmn.org/?p=745 to https://www.masmn.org/happy-eid-from-mas-mn/
+22:37:49	Warning: 	Moved Permanently for https://www.masmn.org/?p=701
+22:37:49	Warning: 	File has moved from https://www.masmn.org/?p=701 to https://www.masmn.org/mas-mn-family-camp-2017/
+22:37:49	Warning: 	Moved Permanently for https://www.masmn.org/?p=680
+22:37:49	Warning: 	File has moved from https://www.masmn.org/?p=680 to https://www.masmn.org/eid_on_sunday_june_25_2017/
+22:37:49	Warning: 	Moved Permanently for https://www.masmn.org/?p=669
+22:37:49	Warning: 	File has moved from https://www.masmn.org/?p=669 to https://www.masmn.org/ramadan2017/
+22:37:49	Warning: 	Moved Permanently for https://www.masmn.org/?p=663
+22:37:49	Warning: 	File has moved from https://www.masmn.org/?p=663 to https://www.masmn.org/ramadanreflections/
+22:37:49	Warning: 	Moved Permanently for https://www.masmn.org/?p=496
+22:37:49	Warning: 	File has moved from https://www.masmn.org/?p=496 to https://www.masmn.org/sunday-school-blaine-community-center/
+22:37:49	Warning: 	Moved Permanently for https://www.masmn.org/?p=500
+22:37:49	Warning: 	File has moved from https://www.masmn.org/?p=500 to https://www.masmn.org/masjid-taqwa-purchase-project/
+22:37:49	Warning: 	Moved Permanently for https://www.masmn.org/?p=590
+22:37:49	Warning: 	File has moved from https://www.masmn.org/?p=590 to https://www.masmn.org/muslim-registry-media-coverage/
+22:37:49	Warning: 	Moved Permanently for https://www.masmn.org/?p=654
+22:37:49	Warning: 	File has moved from https://www.masmn.org/?p=654 to https://www.masmn.org/takingheart/
+22:37:49	Warning: 	Moved Permanently for https://www.masmn.org/?p=512
+22:37:49	Warning: 	File has moved from https://www.masmn.org/?p=512 to https://www.masmn.org/mdac2017/
+22:37:49	Warning: 	Moved Permanently for https://www.masmn.org/?p=515
+22:37:49	Warning: 	File has moved from https://www.masmn.org/?p=515 to https://www.masmn.org/mas-chicago-convention-2016-travel-package/
+22:37:49	Warning: 	Moved Permanently for https://www.masmn.org/?p=518
+22:37:49	Warning: 	File has moved from https://www.masmn.org/?p=518 to https://www.masmn.org/quran-and-adhan-competition-announced1st-annual-mas-mn-quran-and-adhan-competition-11th-mas-minnesota-convention-october-8-2016-muharram-7-1438/
+22:37:50	Warning: 	Moved Permanently for https://www.masmn.org/?p=521
+22:37:50	Warning: 	File has moved from https://www.masmn.org/?p=521 to https://www.masmn.org/convention-schedule-announced/
+22:37:50	Warning: 	Moved Permanently for https://www.masmn.org/?p=524
+22:37:50	Warning: 	File has moved from https://www.masmn.org/?p=524 to https://www.masmn.org/mas-mn-convention-to-be-held-on-saturday-october-8th-2016/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 13 seconds : 187 links scanned, 154 files written (13719430 bytes overall) [13127682 bytes received at 179831 bytes/sec], 1020427 bytes transferred using HTTP compression in 110 files, ratio 31%, 14.3 requests per connection
+(No errors, 64 warnings, 0 messages)
