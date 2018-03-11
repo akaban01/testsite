@@ -11,16 +11,16 @@
   crossorigin="anonymous">
 
  <title>Calendar</title>
- <meta http-equiv="refresh" content="3">
+ <!-- <meta http-equiv="refresh" content="3"> -->
  <style>
- @media only screen and (max-width: 770px) {
+ /* @media only screen and (max-width: 770px) {
   .eventtime {
    font-size: 20px !important;
   }
- }
+ } */
  @media only screen and (max-width: 540px) {
   .eventtime {
-   font-size: 14px !important;
+   font-size: 20px !important;
   }
  }
  </style>
@@ -35,44 +35,32 @@
       </div>
       <div class="card-body">
        <div class="row">
-        <div class="col-3">
+        <div class="col-3" style="padding-right:0">
          <div class="">
-          <span class="eventtime" style="font-size: 26px">10:45 a.m.</span>
-          <br>
-          <span>2 hr</span>
+          <div class="eventtime" style="font-size: 26px;">10:45</div><div style="margin-top: -10px"> am</div>
+          <span class="eventtime" style="font-size: 26px; color: lightgray;">2 hrs</span>
          </div>
         </div>
-        <div class="col-9">
+        <div class="col-9" style="padding-left:5px">
          <h5 class="card-title">Special title treatment</h5>
          <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
         </div>
        </div>
        <hr>
        <div class="row">
-        <div class="col-3">
-         <div class="">
-          <span style="font-size: 26px">12 p.m.</span>
-          <br>
-          <span>1 hr</span>
-         </div>
-        </div>
-        <div class="col-9">
+        <div class="col-12">
+          3 p.m. - 3 hr
          <h5 class="card-title">Special title treatment</h5>
          <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
         </div>
        </div>
        <hr>
        <div class="row">
-        <div class="col-3">
-         <div class="">
-          <span style="font-size: 26px">3 p.m.</span>
-          <br>
-          <span>3 hr</span>
-         </div>
-        </div>
-        <div class="col-9">
-         <h5 class="card-title">Special title treatment</h5>
-         <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+        <div class="col-12">
+          
+         <h5 class="card-title" style="margin-bottom:0">Special title treatment</h5>
+         <div style="font-size: 14px; color:gray">3 p.m. - 6 p.m.</div>
+         <p class="card-text" style="margin-top:8px">With supporting text below as a natural lead-in to additional content.</p>
         </div>
        </div>
       </div>
